@@ -1,5 +1,7 @@
 # Simpson Classification
 
+ССЫЛКА на нотбук в Google Colabe: https://colab.research.google.com/drive/177lxOZ99aTgOFRwKHgw4MSVRCK5b5io_?usp=sharing
+
 ## О проекте
 
 Проект по разработке модели глубокого обучения для классификации персонажей мультсериала "Симпсоны".
